@@ -23,6 +23,7 @@ I focus on clean architecture and practical engineering — from full-stack prod
 |---|---|
 | **[git-github-bootcamp](https://github.com/goobolabs/git-github-bootcamp)** | Git & GitHub fundamentals bootcamp |
 | **[Just Click](https://github.com/mohanadam2233/just-click)** | AI university LMS with a RAG chatbot — Next.js, Flask, PostgreSQL |
+| **[NLP-For Machine-learning](https://github.com/mohanadam2233/nlp-for-machine-learning-bootcamp)** ||
 | **[ds-ml-bootcamp](https://github.com/mohanadam2233/ds-ml-bootcamp)** | Machine learning & data science practice projects |
 
 ### Skills
